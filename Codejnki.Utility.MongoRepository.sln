@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codejnki.Utility.MongoRepository", "Codejnki.Utility.MongoRepository\Codejnki.Utility.MongoRepository.csproj", "{A0579629-62B1-4388-9AC6-795F605C6FA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codejnki.Utility.MongoRepository", "Codejnki.Utility.MongoRepository\Codejnki.Utility.MongoRepository.csproj", "{A0579629-62B1-4388-9AC6-795F605C6FA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F36C85CF-5E64-4677-A268-45911FA77B1A}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
