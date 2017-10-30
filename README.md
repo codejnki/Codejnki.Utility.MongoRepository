@@ -8,3 +8,4 @@ There is an autofac module `MongoRepositoryModule` that you can add to you depen
 
 Create a class that implements `IMongoDbConfig` and it should just work :)
 
+That's about it.
